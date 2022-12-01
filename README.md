@@ -25,3 +25,11 @@ https://drive.google.com/file/d/1K5gvI4sCZbtMAaAEFCyIxvOMHfjSIGVv/view?usp=shari
 <img width="806" alt="diag7" src="https://user-images.githubusercontent.com/91940935/205059760-a109d435-3bc9-4a7f-bed3-529ca80594b8.png">
 
 ## Map Analytics
+<img width="873" alt="map1" src="https://user-images.githubusercontent.com/91940935/205061787-db2cb2ad-075c-4ad5-bbac-f95602cef002.png">
+<img width="753" alt="map2" src="https://user-images.githubusercontent.com/91940935/205061819-abc0bc70-6df1-4f97-a327-fde75bb1f0b2.png">
+<img width="841" alt="map3" src="https://user-images.githubusercontent.com/91940935/205061839-32096595-8a0d-4628-a0ca-3b6358867863.png">
+<img width="801" alt="map4" src="https://user-images.githubusercontent.com/91940935/205061853-2531a05d-1c20-4540-b0c1-dc6a7beaad3b.png">
+
+## Theory Page
+<img width="763" alt="theo1" src="https://user-images.githubusercontent.com/91940935/205062110-2084e5d3-6de6-4dc1-8551-cc596111d364.png">
+<img width="792" alt="theo2" src="https://user-images.githubusercontent.com/91940935/205062107-00080cb5-8481-41ac-b498-74b9d9d062d5.png">
