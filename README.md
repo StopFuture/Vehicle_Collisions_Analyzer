@@ -2,6 +2,7 @@
 **Data science web application**
 
 A video demonstration of the work of this project can be viewed at the link :
-wait ....
+
+https://drive.google.com/file/d/1K5gvI4sCZbtMAaAEFCyIxvOMHfjSIGVv/view?usp=sharing
 
 
