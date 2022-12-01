@@ -5,6 +5,3 @@ A video demonstration of the work of this project can be viewed at the link :
 wait ....
 
 
-
-
-Duplicated repository
